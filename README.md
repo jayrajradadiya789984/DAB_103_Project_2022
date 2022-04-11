@@ -1,6 +1,6 @@
 **# DAB_103_Project_2022 :**
 This Repository contains the Files regarding our College Project DAB103 Analytic tools & Decision making.
-Our Project is regardingthe data analysis of the Election poll Dataset
+Our Project is regarding the data analysis of the Election poll Dataset
 
 **College Name**: St. Clair College
 

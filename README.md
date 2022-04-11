@@ -1,4 +1,4 @@
-# DAB_103_Project_2022
+**# DAB_103_Project_2022**
 This Repository contains the Files regarding the our College Project DAB103 Analytic tools & Decision making.
 Our Project is regardingthe data analysis of the Election poll Dataset
 
@@ -12,4 +12,4 @@ Krim Patel
 Surbhi Patel
 Karan Patel
 
-Faculty : Professor Annie Wang.
+**Faculty :** Professor Annie Wang.

@@ -4,7 +4,7 @@ Our Project is regardingthe data analysis of the Election poll Dataset
 
 **College Name**: St. Clair College
 
-**Team Members: **
+**Team Members:**
 Jayraj Radadiya
 Harshil Patel
 Rajvi Mehta
